@@ -1,0 +1,5 @@
+c:\users\rasha\documents\visual studio 2013\Projects\1-3godtycklig lönereviosion\1-3godtycklig lönereviosion\bin\Debug\1-3godtycklig lönereviosion.exe.config
+c:\users\rasha\documents\visual studio 2013\Projects\1-3godtycklig lönereviosion\1-3godtycklig lönereviosion\bin\Debug\1-3godtycklig lönereviosion.exe
+c:\users\rasha\documents\visual studio 2013\Projects\1-3godtycklig lönereviosion\1-3godtycklig lönereviosion\bin\Debug\1-3godtycklig lönereviosion.pdb
+c:\users\rasha\documents\visual studio 2013\Projects\1-3godtycklig lönereviosion\1-3godtycklig lönereviosion\obj\Debug\1-3godtycklig lönereviosion.exe
+c:\users\rasha\documents\visual studio 2013\Projects\1-3godtycklig lönereviosion\1-3godtycklig lönereviosion\obj\Debug\1-3godtycklig lönereviosion.pdb
